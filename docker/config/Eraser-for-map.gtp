@@ -1,0 +1,20 @@
+# GIMP tool preset file
+
+(stock-id "gimp-tool-eraser")
+(name "Eraser for map")
+(tool-options "GimpEraserOptions"
+    (tool "gimp-eraser-tool")
+    (brush "1. Pixel")
+    (dynamics "Pressure Opacity")
+    (palette "Default")
+    (brush-size 10.000000)
+    (hard yes))
+(use-fg-bg no)
+(use-brush yes)
+(use-dynamics yes)
+(use-gradient no)
+(use-pattern no)
+(use-palette yes)
+(use-font no)
+
+# end of GIMP tool preset file
